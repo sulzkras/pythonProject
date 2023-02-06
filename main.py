@@ -1,0 +1,17 @@
+# print('Hi Python!')
+# userName = input('Enter your name:\t')
+# print('Hi,', userName, '!', end = '\n', sep = '###')
+# print(f'Hi, {userName}!')
+# print(type(userName))
+
+print('Anyone who \n\tstops learning\n\t\t is old,\n\t\t\t whether at twenty or eighty.')
+
+numberOne = int(input('Enter number one: '))
+numberTwo = int(input('Enter number two: '))
+print('Сумма: ', numberOne + numberTwo)
+print('Разница: ', numberOne - numberTwo)
+print('Произведение: ', numberOne * numberTwo)
+print('**************************************')
+print(numberOne, '+', numberTwo, '=', numberOne + numberTwo)
+print(numberOne, '-', numberTwo, '=', numberOne - numberTwo)
+print(numberOne, '*', numberTwo, '=', numberOne * numberTwo)
